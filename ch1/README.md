@@ -1,4 +1,4 @@
-# Chapter 1 Essentials of NLP
+# Chapter 1. Essentials of NLP
 
 ## **Typical text processing workflow**
 
@@ -167,6 +167,4 @@ model_w2v = api.load("word2vec-google-news-300")
 
 model_w2v.most_similar("cookies",topn=10)
 model_w2v.doesnt_match(["USA","Canada","India","Tokyo"])
-
-
 ```
