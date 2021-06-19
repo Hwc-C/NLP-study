@@ -1,4 +1,4 @@
-## Chapter 2. Understanding Sentiment in Natural Language with BiLSTMs
+# Chapter 2. Understanding Sentiment in Natural Language with BiLSTMs
 
 ## **Natural language understanding**
 

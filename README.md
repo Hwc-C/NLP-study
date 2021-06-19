@@ -8,9 +8,18 @@ Notes on **Advanced Natural Language Processing with TensorFlow 2** Published by
 - Count-based
 - TF-IDF
 
-## Chapter 2. 
+## Chapter 2. Understanding Sentiment in Natural Language with BiLSTMs
 
-Chapter 3
+- Load data using tensorflow_datasets
+- Pre-processing with **tfds.features.text.Tokenizer()** and **tensorflow.keras.preprocessing.sequence**
+- Set up LSTM and BiLSTM
+
+## Chapter 3. Named Entity Recognition (NER) with BiLSTMs, CRFs, and Viterbi Decoding
+
+- Tokenizer, text_tok, pos_tok, ner_tok
+- BiLSTM + CRF (transition matrix)
+- Inputs: padded text, Outputs: padded label (ner)
+
 
 Chapter 4
 
